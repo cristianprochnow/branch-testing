@@ -6,5 +6,5 @@ class BMW
     {
     }
 
-    public function creatingOneMethod() {}
+    public function creatingOtherMethod() {}
 }
